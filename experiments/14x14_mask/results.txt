@@ -1,0 +1,2 @@
+Mask size: 14x14
+Test reconstruction MSE: 0.188410

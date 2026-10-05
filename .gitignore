@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Raw datasets
+datasets/*.csv
+datasets/*-ubyte
+
+# Trained model weights
+*.npz
